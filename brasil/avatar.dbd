@@ -1,0 +1,4 @@
+$nomention
+$argsCheck[>1;faltou mencionar alguem]
+$description[Prontinho]
+$image[$userAvatar[$mentioned[1]]]
